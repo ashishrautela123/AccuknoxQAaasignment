@@ -1,0 +1,26 @@
+2024-11-08 19:18:27 - INFO - Starting Application Health Checker...
+2024-11-08 19:18:27 - ERROR - The application is DOWN. Error: HTTPSConnectionPool(host='your-application-url.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000022B3557B8C0>: Failed to resolve 'your-application-url.com' ([Errno 11001] getaddrinfo failed)"))
+2024-11-08 19:19:27 - ERROR - The application is DOWN. Error: HTTPSConnectionPool(host='your-application-url.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000022B35577890>: Failed to resolve 'your-application-url.com' ([Errno 11001] getaddrinfo failed)"))
+2024-11-08 19:20:22 - INFO - Starting Application Health Checker...
+2024-11-08 19:20:23 - INFO - The application is UP. Status code: 200
+2024-11-08 19:21:24 - INFO - The application is UP. Status code: 200
+2024-11-08 19:22:24 - INFO - The application is UP. Status code: 200
+2024-11-08 19:23:25 - INFO - The application is UP. Status code: 200
+2024-11-08 19:24:26 - INFO - The application is UP. Status code: 200
+2024-11-08 19:25:27 - INFO - The application is UP. Status code: 200
+2024-11-08 19:26:27 - INFO - The application is UP. Status code: 200
+2024-11-08 19:27:28 - INFO - The application is UP. Status code: 200
+2024-11-08 19:28:29 - INFO - The application is UP. Status code: 200
+2024-11-08 19:29:30 - INFO - The application is UP. Status code: 200
+2024-11-08 19:30:30 - INFO - The application is UP. Status code: 200
+2024-11-08 19:31:31 - INFO - The application is UP. Status code: 200
+2024-11-08 19:32:32 - INFO - The application is UP. Status code: 200
+2024-11-08 19:33:33 - INFO - The application is UP. Status code: 200
+2024-11-08 19:34:34 - INFO - The application is UP. Status code: 200
+2024-11-08 19:35:35 - INFO - The application is UP. Status code: 200
+2024-11-08 19:36:36 - INFO - The application is UP. Status code: 200
+2024-11-08 19:37:37 - INFO - The application is UP. Status code: 200
+2024-11-08 19:38:37 - INFO - The application is UP. Status code: 200
+2024-11-08 19:39:38 - INFO - The application is UP. Status code: 200
+2024-11-08 19:40:39 - INFO - The application is UP. Status code: 200
+2024-11-08 19:41:40 - INFO - The application is UP. Status code: 200
