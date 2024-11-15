@@ -1,1 +1,1 @@
-Problem sataement 1 solutions contains frim docker files to window.sh
+Problem statement 1 solutions contains from  docker files to window.sh.
